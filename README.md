@@ -7,7 +7,7 @@
 A dedicated software engineer with over 2 years of experience across backend development, frontend design, web scraping, and machine learning. Skilled in Python frameworks like Django and Celery, with hands-on experience in database management, automation, and security practices. Additionally, proficient in data analysis and machine learning algorithms, with an emphasis on both classical and deep learning models. Eager to further explore cybersecurity and software engineering
 
 # 🔱Technical Skills🔱
-### 🐍 Backend Development (1.5 year):
+### 🐍 Backend Development (2 year):
 `Django`, `Celery`, `Redis`, `Worker`, `Beat`, `Nginx`, `WebSocket`, `Htmx`, `Hyperscript`
 `PostgreSQL`, `SQLite3`, `Gunicorn`, `Docker`, `Automation (Email & SMS)`, `Cryptography`,
 `Security Headers`, `REST API Development`
