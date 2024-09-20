@@ -70,7 +70,7 @@ Monte Carlo Dropout, L1/L2 Regularization, 1Cycle
 | COURSE                   | PROVIDER      | SHISHO          | DEGREE                  |
 |--------------------------|---------------|-----------------|-------------------------|
 | Django                   | i3center      | mr.rasouli      | 🎓98%🎓                 |
-| Advanced Django          | Maktabkhooneh | mr.bigdeli      | 🎓(under evaluation)🎓  |
+| Advanced Django          | Maktabkhooneh | mr.bigdeli      | 🎓96%🎓  |
 | Machine Learning         | Maktabkhooneh | mr.tehrani poor | 🎓92%🎓                 |
 | Applied machine learning | Maktabkhooneh | mr.tehrani poor | 🎓81%🎓                 |
 | Deep Learning            | Maktabkhooneh | mr.eghbali      | 🎓90%🎓                 |
