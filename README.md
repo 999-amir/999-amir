@@ -1,7 +1,7 @@
 # Amir Mohammad Arghavany
 #### 📧Email: <a href="https://mail.google.com/mail">arghavanyamirmohammad@gmail.com</a>
 #### 🗃️GitHub: <a href="https://github.com/999-amir"> https://github.com/999-amir </a>
-#### 🏛️linkedin: <a href="www.linkedin.com/in/amir-mohammad-arghavany">amir-mohammad-arghavany</a>
+#### 🏛️linkedin: <a href="www.linkedin.com/in/amir-mohammad-arghavany">www.linkedin.com/in/amir-mohammad-arghavany</a>
 #### 🌍Website: <a href="https://999.iran.liara.run">999</a>
 
 
