@@ -1,7 +1,10 @@
 # Amir Mohammad Arghavany
 #### 📧Email: <a href="https://mail.google.com/mail">arghavanyamirmohammad@gmail.com</a>
 #### 🗃️GitHub: <a href="https://github.com/999-amir"> https://github.com/999-amir </a>
+#### 🏛️linkedin: <a href="www.linkedin.com/in/amir-mohammad-arghavany">amir-mohammad-arghavany</a>
 #### 🌍Website: <a href="https://999.iran.liara.run">999</a>
+
+
 
 # ⚜️Professional Summary⚜️
 A dedicated software engineer with over 2 years of experience across backend development, frontend design, web scraping, and machine learning. Skilled in Python frameworks like Django and Celery, with hands-on experience in database management, automation, and security practices. Additionally, proficient in data analysis and machine learning algorithms, with an emphasis on both classical and deep learning models. Eager to further explore cybersecurity and software engineering
